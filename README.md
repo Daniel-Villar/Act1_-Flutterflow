@@ -1,3 +1,3 @@
 # Act1_-Flutterflow
 act1 de ios en flutterflow
-![image](https://github.com/user-attachments/assets/f31da855-2cb1-4a76-810a-85be55ef6035)
+![image](https://github.com/user-attachments/assets/377830cf-ba13-4d20-8aa9-4b05b6d6e66f)
